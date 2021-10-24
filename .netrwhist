@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/sitindustry/Documents/CVLab/lab03'
+let g:netrw_dirhist_8='/home/sitindustry/Documents/CVLab/lab03/build'
+let g:netrw_dirhist_7='/home/sitindustry/Documents/CVLab/lab03'
+let g:netrw_dirhist_6='/home/sitindustry/Documents/CVLab'
+let g:netrw_dirhist_5='/home/sitindustry/Documents/CVLab/lab03'
+let g:netrw_dirhist_4='/home/sitindustry/Documents/CVLab/lab03/build'
+let g:netrw_dirhist_3='/home/sitindustry/Documents/CVLab/lab03'
+let g:netrw_dirhist_2='/home/sitindustry/Documents/CVLab/lab03/build'
+let g:netrw_dirhist_1='/home/sitindustry/Documents/CVLab/lab03'
